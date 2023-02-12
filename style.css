@@ -1,0 +1,117 @@
+body {
+    margin: 0;
+    font-family: 'Montserrat', sans-serif;
+}
+
+.two-col {
+    display: flex;
+
+}
+
+
+#skip {
+    color: orange;
+}
+
+
+.one-third {
+    width: 40%;
+}
+
+.heading {
+    margin-left: 20px;
+    margin-top: 50px;
+    padding: 20px;
+}
+
+.two-third {
+    width: 60%;
+}
+
+.one-third h2 {
+    font-size: 50px;
+}
+
+.order-btn {
+    text-decoration: none;
+    color: #fff;
+    background-image: linear-gradient(#FBA24F, #FF1E1E);
+    padding: 20px 50px;
+    border-radius: 30px;
+    font-weight: 700;
+}
+
+.one-third p {
+    margin-bottom: 50px;
+    font-size: 20px;
+}
+
+
+
+.two-third p {
+    margin-bottom: 50px;
+    font-size: 20px;
+}
+
+
+.two-third img {
+    background-image: url('./images/shapes/Group 8446.png');
+    background-repeat: no-repeat;
+    position: center;
+}
+
+.one-third img {
+    padding-left: 100px;
+    width: 100%;
+    height: 500px;
+
+}
+
+.about-section {
+    margin: 0 auto;
+    width: 400px;
+    margin-top: 50px;
+    margin-left: 50px;
+    padding-left: 60px;
+}
+
+.about {
+    background-image: url('./images/shapes/7.png');
+    background-repeat: no-repeat;
+}
+
+.recipie-title {
+    text-align: center;
+}
+
+.recipie-title p {
+
+    margin-left: auto;
+    margin-right: auto;
+    width: 500px;
+}
+
+.recipie {
+    width: 50%;
+    box-shadow: 10px 10px 40px gray;
+    border-radius: 10px;
+    padding: 20px;
+    margin: 10px;
+}
+
+.recipie img {
+    width: 100%;
+    border-radius: 10px;
+}
+
+.social {
+    display: flex;
+    margin: 40px;
+    box-shadow: 10px 10px 40px gray;
+    border-radius: 5px;
+}
+
+.follower {
+    width: 33%;
+    text-align: center;
+}
